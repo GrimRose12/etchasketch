@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+.gridItem {
+    border: black 0px solid;
+    margin: 0;
+    padding: 0;
+    background: yellow;
+    flex: 1;
+    min-width: 100px;
+    height: 100px;
+}
+
